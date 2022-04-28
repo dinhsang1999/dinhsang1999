@@ -1,5 +1,6 @@
 
-![Header](cover-git.png "Header")
+<!-- ![Header](cover-git.png "Header") -->
+<div align="left"> <img width="600" height="200" src="cover-git.png"> </div>
 
 ### Hello,guests! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 ***
@@ -38,7 +39,7 @@ My name is Sancho Dinh and I'm a software developer/data medical engineer. I'm f
 <a href="https://github.com/dinhsang1999/dinhsang1999">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhsang1999&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/dinhsang1999/dinhsang1999"">
+<a href="https://github.com/dinhsang1999/dinhsang1999">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhsang1999&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sancho's GitHub Stats" />
 </a> 
 <!-- links to social media icons -->
