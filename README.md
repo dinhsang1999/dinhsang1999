@@ -1,6 +1,6 @@
 
 <!-- ![Header](cover-git.png "Header") -->
-<div align="left"> <img width="600" height="200" src="cover-git.png"> </div>
+<div align="left"> <img width="800" height="400" src="cover-git.png"> </div>
 
 ### Hello,guests! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 ***
