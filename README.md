@@ -2,17 +2,17 @@
 <!-- ![Header](cover-git.png "Header") -->
 <div align="left"> <img width="800" height="400" src="cover-git.png"> </div>
 
-### Hello,guests! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
+### Hello,guest! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 ***
-My name is Sancho Dinh and I'm a software developer/data medical engineer. I'm from VietNam, living in Ho Chi Minh city and currently is Senior student of Biomedical Engineering Department in International University. You can find me on [![Facebook][1.2]][1] or on [![LinkedIn][3.2]][3].
+My name is Sancho Dinh and I'm an AI developer/data medical engineer. I'm from VietNam, living in Ho Chi Minh city and currently is Senior student of Biomedical Engineering Department in International University. You can find me on [![Facebook][1.2]][1] or on [![LinkedIn][3.2]][3].
 
 **Machine learning skills:**
-- Data analysis and feature engineering skills, ML Algorithms selection, Metric understanding and developing, Cross-validation, Optimization, ....
-- Frameworks: Pytorch, Tensorflow, Sklearn.
+- Data analysis and feature engineering skills, ML Algorithms selection, Metric understanding and developing, Cross-validation, Optimization, build automatical pipeline ....
+- Frameworks: Pytorch, Tensorflow, Sklearn, Streamlit
 
 **Medical engineering skills:**
-- Medical image processing, Signal processing
-- Frameworks: Matlab, openCV
+- Medical image processing, Signal processing, Medical Instrumentation
+- Frameworks: Matlab, openCV, Ensemble
 
 # Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinhsang1999&theme=dark)](https://git.io/streak-stats)
