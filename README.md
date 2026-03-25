@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2dd4bf&center=true&vCenter=true&random=false&width=500&lines=Medical+Tools+Developer;Vibe+Coder+%F0%9F%9A%80;3%2B+Years+of+IT+Experience;From+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2dd4bf&center=true&vCenter=true&random=false&width=550&lines=Healthcare+IT+%7C+LIS+Developer;Mirth+Connect+%7C+HL7+Integration;Medical+Device+Connectivity;Vibe+Coder+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -18,14 +18,17 @@
 
 ```yaml
 name: "ĐINH HOÀNG SÁNG (ENG.DINH)"
-role: "IT Developer — Medical Tools & Vibe Coder"
+role: "Healthcare IT Developer — LIS & Medical Integration"
 location: "Ho Chi Minh City, Vietnam 🇻🇳"
 education: "B.Eng Biomedical Engineering — International University (VNU-HCM)"
 experience: "3+ years"
 
 what_i_do:
-  - "Developing medical software & clinical tools"
-  - "Vibe coding — building things fast with AI-assisted tools"
+  - "LIS software development & lab analyzer connectivity"
+  - "Mirth Connect integration — HL7/ASTM/FHIR channels"
+  - "Medical device interfacing (analyzers, POCT, serial/TCP)"
+  - "Clinical tools & healthcare software"
+  - "Vibe coding — building fast with AI-assisted tools"
   - "TradingView indicators & quantitative scripts"
 ```
 
@@ -34,6 +37,14 @@ what_i_do:
 ## ⚡ Tech Stack
 
 <div align="center">
+
+### 🏥 Healthcare IT & Integration
+![Mirth Connect](https://img.shields.io/badge/Mirth_Connect-2dd4bf?style=flat-square&logoColor=white)
+![HL7 v2.x](https://img.shields.io/badge/HL7_v2.x-DC143C?style=flat-square&logoColor=white)
+![FHIR R4](https://img.shields.io/badge/FHIR_R4-0079D6?style=flat-square&logoColor=white)
+![ASTM](https://img.shields.io/badge/ASTM_E1381-FF6B00?style=flat-square&logoColor=white)
+![LIS](https://img.shields.io/badge/LIS_Development-8B5CF6?style=flat-square&logoColor=white)
+![Serial/TCP](https://img.shields.io/badge/Serial%2FTCP-555?style=flat-square&logoColor=white)
 
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -61,6 +72,7 @@ what_i_do:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000?style=flat-square&logo=cursor&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat-square&logo=tradingview&logoColor=white)
 
 </div>
