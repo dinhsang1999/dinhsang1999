@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" height="200" src="cover-git.png" alt="ENG.DINH" />
+  <img width="100%" src="cover-git.png" alt="ENG.DINH" />
 </div>
 
 <div align="center">
