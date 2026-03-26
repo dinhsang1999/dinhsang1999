@@ -34,6 +34,30 @@ what_i_do:
 
 ---
 
+## 🚀 My Professional Journey
+
+<div align="left">
+
+- **2017 — 2021 | 🎓 University Foundation**  
+  *4 years of Academic Excellence*  
+  Studied **B.Eng Biomedical Engineering** (VNU-HCM). Specialized in **AI-driven Image Processing** and medical informatics.
+
+- **2021 — 2021 | 💡 AI Development Internship**  
+  *Gaining Real-world Expertise*  
+  Interned in a dedicated AI development team, focusing on **Deep Learning models** and automated clinical diagnosis.
+
+- **2021 — 2022 | 🤖 AI Engineer**  
+  *Professional Growth*  
+  6 months of intensive work in AI development, creating computer vision solutions for clinical research and diagnostics.
+
+- **2022 — Present | 🏥 Healthcare IT & Systems Engineer**  
+  *3+ Years of Senior Experience*  
+  Currently driving integration at a leading **Medical Device Company**. Expert in **LIS development, HL7/ASTM protocols**, and lab analyzer connectivity.
+
+</div>
+
+---
+
 ## ⚡ Tech Stack
 
 <div align="center">
