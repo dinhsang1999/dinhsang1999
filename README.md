@@ -82,14 +82,14 @@ what_i_do:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dinhsang1999&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhsang1999&theme=github-dark-blue&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DinhLucent&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinhLucent&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinhsang1999&color=2dd4bf&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=DinhLucent&color=2dd4bf&style=flat-square&label=Profile+Views" />
 </div>
 
 <div align="center">
