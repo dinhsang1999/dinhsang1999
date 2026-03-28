@@ -106,8 +106,8 @@ what_i_do:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DinhLucent&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=DinhLucent&theme=github-dark-blue&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DinhLucent&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Eng.Dinh's%20GitHub%20Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinhLucent&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
@@ -118,4 +118,4 @@ what_i_do:
 
 <div align="center">
   <sub><i>"Build fast, ship faster."</i></sub>
-</div>>
+</div>
