@@ -95,9 +95,16 @@ what_i_do:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000?style=flat-square&logo=cursor&logoColor=white)
+![CLAUDE](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=claude&logoColor=white)
+![AntiGravity](https://img.shields.io/badge/AntiGravity-000?style=flat-square&logo=google&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat-square&logo=tradingview&logoColor=white)
+
+### 🗣️ Languages
+![Vietnamese](https://img.shields.io/badge/Vietnamese-Native-2dd4bf?style=flat-square)
+![English](https://img.shields.io/badge/English-Professional-007ACC?style=flat-square)
+![Chinese](https://img.shields.io/badge/Chinese-Planned-D97757?style=flat-square)
 
 </div>
 
