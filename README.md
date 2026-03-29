@@ -110,6 +110,37 @@ what_i_do:
 
 ---
 
+## 📜 Certifications
+
+**2022**
+
+| # | Course | |
+|---|--------|---|
+| 1 | Python Project for Data Engineering | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/VA42PVC5YYX4) |
+| 2 | Introduction to Data Engineering | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/GGJK87NA7UF3) |
+| 3 | Introduction to Docker : The Basics | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/B9KZ6PAKMFF7) |
+| 4 | AI for Medical Prognosis | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/NKCSECA9929H) |
+| 5 | Python Data Structures | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/DFDNJD3F8UDJ) |
+| 6 | Programming for Everybody (Getting Started with Python) | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/MCQNC2PJB3TB) |
+| 7 | Linux and Bash for Data Engineering | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/XT4XVKF79JMQ) |
+| 8 | Python for Data Science, AI & Development | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/WBJSFA4KRTKB) |
+| 9 | Build a Data Science Web App with Streamlit and Python | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/LTMZ5SV5J36Q) |
+| 10 | Hyperparameter Tuning with Keras Tuner | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/FEVUFPUQJS3H) |
+| 11 | Deep Learning with PyTorch : Object Localization | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/GLQMSMFNY2SL) |
+| 12 | Deep Learning with PyTorch : Generative Adversarial Network | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/YHVDC6XBFE9A) |
+| 13 | Data Visualization using Plotly | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/NWK2AERGVDTJ) |
+| 14 | Deep Learning with PyTorch : Image Segmentation | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://www.coursera.org/account/accomplishments/certificate/Z6PPVGV6NNHT) |
+
+**2020**
+
+| # | Course | |
+|---|--------|---|
+| 1 | Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://coursera.org/share/7f5c7c8b598ba2f7e90c54726b5a995a) |
+| 2 | Neural Networks and Deep Learning | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://coursera.org/share/b3a3815dfe1fca3744e6b86261c1d8b1) |
+| 3 | Convolutional Neural Networks | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://coursera.org/share/0c3d7a83201d18698df6563471970781) |
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
