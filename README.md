@@ -146,25 +146,11 @@ what_i_do:
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/DinhLucent/YOUR_REPO_NAME_1">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DinhLucent&repo=YOUR_REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/DinhLucent/YOUR_REPO_NAME_2">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DinhLucent&repo=YOUR_REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-<br/>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DinhLucent&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Eng.Dinh's%20GitHub%20Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinhLucent&theme=github-dark-blue&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-alpha.vercel.app/api?username=DinhLucent&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Eng.Dinh's%20GitHub%20Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=DinhLucent&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
