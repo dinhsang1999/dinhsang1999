@@ -1,9 +1,15 @@
 <div align="center">
-  <img width="100%" src="cover-git.png" alt="ENG.DINH" />
+  <img width="100%" src="cover-2.webp" alt="ENG.DINH" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2dd4bf&center=true&vCenter=true&random=false&width=550&lines=Healthcare+IT+%7C+LIS+Developer;Mirth+Connect+%7C+HL7+Integration;Medical+Device+Connectivity;Agentic+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <h3>ENG.DINH</h3>
+  <p><i>Building the bridge between medical devices, clinical data and intelligent systems.</i></p>
+  <p><b>Healthcare Integration Engineer</b> specializing in LIS, medical device connectivity, Mirth Connect, HL7/ASTM interfaces, and Bio-Rad QC/URT workflows.</p>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2dd4bf&center=true&vCenter=true&random=false&width=780&lines=Healthcare+Integration+Engineer;LIS+%E2%80%A2+Medical+Device+Connectivity+%E2%80%A2+Mirth+Connect;HL7%2FASTM+Interfaces+for+Clinical+Systems;QC%2FURT+Integration+for+Bio-Rad+Workflows" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -13,11 +19,40 @@
 
 ---
 
+## 🧬 From Device to Care
+
+> *"Bridging the gap between raw machine signals and clinical decisions."*
+
+```mermaid
+graph LR
+    A([🏥 Medical Analyzer]) -->|ASTM / HL7 / Serial| B{{⚙️ Mirth Connect}}
+    B -->|Integration| C[(📊 LIS / QC / URT)]
+    C -->|Data Validation| D[🧠 AI Insight]
+    D -->|Actionable| E((✨ Better Care))
+```
+
+---
+
+## 🔌 Device Connectivity Experience
+
+| Area | Devices / Systems |
+| --- | --- |
+| Urinalysis | Analyticon Urilyzer 100 Pro, 500 Pro, Auto |
+| Chemistry | Furuno CA270, CA400, CA800; EXIAS e\|1; Elitech analyzers |
+| Hematology | Nihon Kohden MEK9100, MEK7300, MEK13xx (certified) |
+| Renal Replacement | Baxter Prismaflex, PrisMax |
+| QC / URT | Bio-Rad QC / URT management system integration |
+| Multi-vendor | Broad hands-on experience connecting Bio-Rad and other laboratory analyzers into quality management workflows |
+
+---
+
 ## 🧑‍💻 About Me
 
 ```yaml
 name: "ĐINH HOÀNG SÁNG (ENG.DINH)"
-role: "Healthcare IT Developer — LIS & Medical Integration"
+role: "Healthcare Integration Engineer"
+focus: "LIS • Medical Device Connectivity • Mirth Connect • HL7/ASTM • QC/URT • Agentic AI"
+mission: "Building the bridge between medical devices, clinical data and intelligent systems"
 location: "Ho Chi Minh City, Vietnam 🇻🇳"
 education: "B.Eng Biomedical Engineering — International University (VNU-HCM)"
 experience: "3+ years"
@@ -26,8 +61,9 @@ what_i_do:
   - "LIS software development & lab analyzer connectivity"
   - "Mirth Connect integration — HL7/ASTM/FHIR channels"
   - "Medical device interfacing (analyzers, POCT, serial/TCP)"
+  - "Connecting multi-vendor laboratory analyzers into Bio-Rad QC/URT systems"
   - "Clinical tools & healthcare software"
-  - "Agentic Engineering — Orchestrating autonomous AI workflows to accelerate development"
+  - "Applied agentic AI for healthcare integration workflows"
   - "TradingView indicators & quantitative scripts"
 ```
 
@@ -37,85 +73,74 @@ what_i_do:
 
 <div align="left">
 
-- **2017 — 2021 | 🎓 University Foundation**  
-  _4 years of Academic Excellence_  
-  Studied **B.Eng Biomedical Engineering** (VNU-HCM). Specialized in **AI-driven Image Processing** and medical informatics.
+- **2017 — 2021 | 🎓 Biomedical Engineering Foundation**  
+  Studied **B.Eng Biomedical Engineering** at VNU-HCM, with a focus on medical informatics, image processing, and clinical technology systems.
 
 - **2021 — 2021 | 💡 AI Development Internship**  
-  _Gaining Real-world Expertise_  
-  Interned in a dedicated AI development team, focusing on **Deep Learning models** and automated clinical diagnosis.
+  Worked on **deep learning** and computer vision workflows for clinical diagnosis and medical image analysis.
 
 - **2021 — 2022 | 🤖 AI Engineer**  
-  _Professional Growth_  
-  6 months of intensive work in AI development, creating computer vision solutions for clinical research and diagnostics.
+  Built computer vision solutions for clinical research and diagnostic support, bridging biomedical knowledge with applied AI engineering.
 
 - **2022 — Present | 🏥 Healthcare IT & Systems Engineer**  
-  _3+ Years of Senior Experience_  
-  Currently driving integration at a leading **Medical Device Company**. Expert in **LIS development, HL7/ASTM protocols**, and lab analyzer connectivity.
+  Driving integration at a leading **Medical Device Company**, connecting laboratory analyzers to LIS, QC, and URT systems through **HL7/ASTM**, serial/TCP, and Mirth Connect workflows.
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Systems
+
+> **Healthcare Integration Architecture**
+> 
+> - **Devices:** `Analyticon Urilyzer` • `Furuno CA270/400/800` • `EXIAS e|1` • `Nihon Kohden MEK` • `Elitech` • `Baxter Prismaflex/PrisMax` • `Bio-Rad`
+> - **Protocols:** `ASTM E1381/E1394` • `HL7 v2.x` • `FHIR R4` • `TCP/IP` • `RS-232`
+> - **Middleware:** `Mirth Connect` • `Python` • `FastAPI` • `SQL Server` • `Bio-Rad QC/URT`
+> - **Intelligent Systems:** `Agentic AI` • `Clinical NER` • `Automation` • `Data Validation`
+
+<br/>
+
+<details>
+<summary><b>🛠️ Comprehensive Tech Stack (Click to expand)</b></summary>
+<br/>
 
 <div align="center">
 
-### 🏥 Healthcare IT & Integration
-
+**Integration & AI:**<br/>
 ![Mirth Connect](https://img.shields.io/badge/Mirth_Connect-2dd4bf?style=flat-square&logoColor=white)
 ![HL7 v2.x](https://img.shields.io/badge/HL7_v2.x-DC143C?style=flat-square&logoColor=white)
 ![FHIR R4](https://img.shields.io/badge/FHIR_R4-0079D6?style=flat-square&logoColor=white)
 ![ASTM](https://img.shields.io/badge/ASTM_E1381-FF6B00?style=flat-square&logoColor=white)
-![LIS](https://img.shields.io/badge/LIS_Development-8B5CF6?style=flat-square&logoColor=white)
-![Serial/TCP](https://img.shields.io/badge/Serial%2FTCP-555?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🐍 Languages
-
+**Languages:**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Pine Script](https://img.shields.io/badge/Pine_Script-2962FF?style=flat-square&logo=tradingview&logoColor=white)
 
-### 🧠 AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### 🌐 Web & Backend
-
+**Backend & Web:**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Tools:**<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000?style=flat-square&logo=cursor&logoColor=white)
 ![CLAUDE](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex_AI-00A67E?style=flat-square&logo=openai&logoColor=white)
 ![AntiGravity](https://img.shields.io/badge/AntiGravity-000?style=flat-square&logo=google&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat-square&logo=tradingview&logoColor=white)
-
-### 🗣️ Languages
-
-![Vietnamese](https://img.shields.io/badge/Vietnamese-Native-2dd4bf?style=flat-square)
-![English](https://img.shields.io/badge/English-Professional-007ACC?style=flat-square)
-![Chinese](https://img.shields.io/badge/Chinese-Planned-D97757?style=flat-square)
 
 </div>
+</details>
 
 ---
 
-## 📜 Certifications
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br/>
 
 **2022**
 
@@ -143,6 +168,8 @@ what_i_do:
 | 1   | Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://coursera.org/share/7f5c7c8b598ba2f7e90c54726b5a995a) |
 | 2   | Neural Networks and Deep Learning                                                      | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://coursera.org/share/b3a3815dfe1fca3744e6b86261c1d8b1) |
 | 3   | Convolutional Neural Networks                                                          | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://coursera.org/share/0c3d7a83201d18698df6563471970781) |
+
+</details>
 
 ---
 
