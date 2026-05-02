@@ -142,6 +142,12 @@ what_i_do:
 <summary><b>📜 Certifications</b></summary>
 <br/>
 
+**2026**
+
+| #   | Course                                                               |                                                                                                                                    |
+| --- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | AI Agents and Agentic AI with Python & Generative AI                 | [![VIEW](https://img.shields.io/badge/VIEW-2dd4bf?style=flat-square)](https://coursera.org/share/b4f00b18685718882a24afb4c4e9325e) |
+
 **2022**
 
 | #   | Course                                                      |                                                                                                                                                  |
